@@ -43,11 +43,17 @@ Welcome to the TapSwap Auto Clicker repository. This script automates the clicki
 
 ## Usage
 
-1. Start the server:
+## 1. Start the server:
 
-   ```sh
-   node index.js
-   ```
+```sh
+node index.js
+```
 
-   ![1716678281988](images/Readme/1716678281988.png)
+![1716678281988](images/Readme/1716678281988.png)
 2. The frontend server will start running on `http://localhost:3000`. Note that this frontend was created just for fun. The automated clicker will begin operating based on the provided configuration.![1716672376303](images/Readme/1716672376303.png)
+
+
+
+## Follow for More Amazing Projects
+
+If you enjoyed this project and want to stay updated on more amazing projects, follow me on [GitHub](https://github.com/WackyDawg) and [Twitter](https://twitter.com/JNwadinobi26328). Your support means a lot and keeps me motivated to create more cool stuff! 🌟
