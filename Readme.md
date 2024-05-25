@@ -15,6 +15,8 @@ Welcome to the TapSwap Auto Clicker repository. This script automates the clicki
 - Node.js
 - npm (Node Package Manager)
 - Telegram(Android
+- Render Account : To deploy and run this code 24/7 without consuming your power and internet connection, you will need a [Render](https://render.com/) account.
+- Cron-job.org Account : To run cron job on your server so that it does not go inactive.
 
 ## Installation
 
@@ -46,9 +48,6 @@ Welcome to the TapSwap Auto Clicker repository. This script automates the clicki
    ```sh
    node index.js
    ```
+
+   ![1716678281988](images/Readme/1716678281988.png)
 2. The frontend server will start running on `http://localhost:3000`. Note that this frontend was created just for fun. The automated clicker will begin operating based on the provided configuration.![1716672376303](images/Readme/1716672376303.png)
-
-## Deploying To Render
-
-1. Go to [render.com](https://render.com/) and create an account
-2. Click on the
